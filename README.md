@@ -3,7 +3,7 @@
 
  ## Technologies I tried
  Tech | How much I like
- :---: | :---:
+ :---: | :---
  Markdown | :star: :star: :star: :star: :star:
  HTML5 | :star: :star: :star: :star: :star: 
  CSS3 | :star: :star: :star: :star:
@@ -19,7 +19,7 @@
 
  ## Tecnologias que experimentei
  Tecnologia | O quanto gostei
- :---: | :---:
+ :---: | :---
  Markdown | :star: :star: :star: :star: :star:
  HTML5 | :star: :star: :star: :star: :star: 
  CSS3 | :star: :star: :star: :star:
