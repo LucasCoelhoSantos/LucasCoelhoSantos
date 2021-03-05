@@ -1,5 +1,5 @@
 # About me
- I have 18 years old and started studying programing recently. I'm not so good yet, but I keep practicing every day to be a better programmer.
+ I have 18 years old and started studying programing recently. I'm not so good yet, but I keep practicing every day to be come an excellent programmer.
 
  ## Technologies I tried
  Tech | How much I like
@@ -15,7 +15,7 @@
 ---
 
  # Sobre mim
- Tenho 18 anos e comecei a estudar programação recentemente. Ainda não sou tão bom, mas continuo praticando todo dia para me tornar um programador melhor.
+ Tenho 18 anos e comecei a estudar programação recentemente. Ainda não sou tão bom, mas continuo praticando todo dia para me tornar um excelente programador.
 
  ## Tecnologias que experimentei
  Tecnologia | O quanto gostei
